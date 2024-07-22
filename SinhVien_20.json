@@ -1,0 +1,67 @@
+{
+  "SinhVien_20": [
+    {
+      "hoten": "Vu Ngoc",
+      "mssv": 4321,
+      "khoa": "CNTT",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "hoten": "Nguyen Van A",
+      "mssv": 2410,
+      "khoa": "KHMT"
+    },
+    {
+      "id": "3",
+      "hoten": "Nguyen Thi C",
+      "mssv": 7412,
+      "khoa": "CNTT"
+    },
+    {
+      "id": "4",
+      "hoten": "Tran Van B",
+      "mssv": 1234,
+      "khoa": "Kinh Te"
+    },
+    {
+      "id": "5",
+      "hoten": "Nguyen Thi Hong D",
+      "mssv": 9542,
+      "khoa": "QTNL"
+    },
+    {
+      "id": "6",
+      "hoten": "Ngo Van E",
+      "mssv": 8563,
+      "khoa": "Luat"
+    },
+    {
+      "id": "7",
+      "hoten": "Ngoc Dang",
+      "mssv": 1000,
+      "khoa": "KTKD"
+    },
+    {
+      "id": "9",
+      "hoten": "Danggggggg",
+      "mssv": 2100,
+      "khoa": "KTKD"
+    },
+    {
+      "id": "2cd9"
+    },
+    {
+      "id": "92b8"
+    },
+    {
+      "id": "5b93"
+    },
+    {
+      "id": "38b1"
+    },
+    {
+      "id": "8116"
+    }
+  ]
+}
